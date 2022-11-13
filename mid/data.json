@@ -1,0 +1,35 @@
+[
+    
+    {
+        "Username": "abir2",
+        "NID_Number": "22212121",
+        "dob": "2022-11-16",
+        "Password": "222222",
+        "pnumber": "01633696411",
+        "Bank-name": "jamuna bank",
+        "Bank-holder-name": "abir mia",
+        "Bank-account-number": "1254541Q2",
+        "houseorflat": "23b",
+        "roadNo": "3",
+        "city": "Mirpur",
+        "distrcit": "shirajganj",
+        "sq": "age_during_college admission",
+        "sqa": "17"
+    },
+    {
+        "Username": "abir3",
+        "NID_Number": "12124372",
+        "dob": "2022-11-16",
+        "Password": "11111111",
+        "pnumber": "01633696412",
+        "Bank-name": "jamuna bank",
+        "Bank-holder-name": "abir mia",
+        "Bank-account-number": "1254541Q2",
+        "houseorflat": "23b",
+        "roadNo": "3",
+        "city": "Mirpur",
+        "distrcit": "shirajganj",
+        "sq": "age_during_college admission",
+        "sqa": "17"
+    }
+]
