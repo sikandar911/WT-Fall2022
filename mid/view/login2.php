@@ -1,4 +1,4 @@
-
+<?php include "../proc/login2pro.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +8,7 @@
 </head>
 <body>
   <table>
-    <form action="../proc/login2pro.php" method="POST">
+    <form action="" method="POST">
     <tr>
         <td> Username:</td>
         <td>
